@@ -1,0 +1,54 @@
+* Advent of Code
+
+*** http://adventofcode.com/2016/
+
+In the beginning, he created the repository...
+
+And it was without form, and emptiness was upon the face of the reflog...
+
+And His Caret moved upon the face of the sources...
+
+**** DONE Day 1
+And on the first day, there was *Rust*. He saw the Rust, and it was good.
+**** DONE Day 2
+And on the second day, he divided the /functional/ from the /imperative/, and called the /imperative/ *Go*.
+**** TODO Day 3
+And on the third day...
+
+** Languages
+- [ ] Ada
+- [ ] APL
+- [ ] Bash
+- [ ] Brainfuck
+- [ ] C
+- [ ] C#
+- [ ] C++
+- [ ] Clojure
+- [ ] Common Lisp
+- [ ] D
+- [ ] Elixir
+- [ ] Erlang
+- [ ] F#
+- [ ] Factor
+- [ ] Forth
+- [X] Go
+- [ ] Haskell
+- [ ] Java
+- [ ] Javascript
+- [ ] Lua
+- [ ] Nasm (x86)
+- [ ] OCaml
+- [ ] Pascal
+- [ ] Perl
+- [ ] Perl6
+- [ ] PHP
+- [ ] Python
+- [ ] Racket
+- [ ] Ruby
+- [X] Rust
+- [ ] Scala
+- [ ] Smalltalk
+
+#+BEGIN_COMMENT
+http://www.pitt.edu/~dash/genesis01-03.html
+#+END_COMMENT
