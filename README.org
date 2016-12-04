@@ -13,7 +13,7 @@ And on the first day, there was *Rust*. He saw the Rust, and it was good.
 **** DONE Day 2
 And on the second day, he divided the /functional/ from the /imperative/, and called the /imperative/ *Go*.
 **** TODO Day 3
-And on the third day...
+And on the third day, he said "let there be /dynamicism/ in the midst of the web", and it was so, and he called the /dynamicism/ *PHP*.
 
 ** Languages
 - [ ] Ada
@@ -41,8 +41,9 @@ And on the third day...
 - [ ] Pascal
 - [ ] Perl
 - [ ] Perl6
-- [ ] PHP
+- [X] PHP
 - [ ] Python
+- [ ] Quipper
 - [ ] Racket
 - [ ] Ruby
 - [X] Rust
