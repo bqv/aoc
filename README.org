@@ -12,14 +12,36 @@ And His Caret moved upon the face of the sources...
 And on the first day, there was *Rust*. He saw the Rust, and it was good.
 **** DONE Day 2
 And on the second day, he divided the /functional/ from the /imperative/, and called the /imperative/ *Go*.
-**** TODO Day 3
-And on the third day, he said "let there be /dynamicism/ in the midst of the web", and it was so, and he called the /dynamicism/ *PHP*.
+**** DONE Day 3
+And on the third day, he said "Let there be /dynamicism/ in the midst of the web", and it was so. And he called the /dynamicism/ *PHP*.
+**** DONE Day 4
+And on the fourth day, he said "Let the /whitespace/ under the source be gathered unto one place, and let arcane /characters/ appear, and it was so. And he called the /characters/ *Perl6* and the /whitespace/ unnecessary.
+**** TODO Day 5
+***** TODO Day 6
+***** TODO Day 7
+***** TODO Day 8
+***** TODO Day 9
+***** TODO Day 10
+***** TODO Day 11
+***** TODO Day 12
+***** TODO Day 13
+***** TODO Day 14
+***** TODO Day 15
+***** TODO Day 16
+***** TODO Day 17
+***** TODO Day 18
+***** TODO Day 19
+***** TODO Day 20
+***** TODO Day 21
+***** TODO Day 22
+***** TODO Day 23
+***** TODO Day 24
+***** TODO Day 25
 
 ** Languages
 - [ ] Ada
 - [ ] APL
 - [ ] Bash
-- [ ] Brainfuck
 - [ ] C
 - [ ] C#
 - [ ] C++
@@ -40,7 +62,7 @@ And on the third day, he said "let there be /dynamicism/ in the midst of the web
 - [ ] OCaml
 - [ ] Pascal
 - [ ] Perl
-- [ ] Perl6
+- [X] Perl6
 - [X] PHP
 - [ ] Python
 - [ ] Quipper
