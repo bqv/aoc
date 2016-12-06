@@ -16,8 +16,9 @@ And on the second day, he divided the /functional/ from the /imperative/, and ca
 And on the third day, he said "Let there be /dynamicism/ in the midst of the web", and it was so. And he called the /dynamicism/ *PHP*.
 **** DONE Day 4
 And on the fourth day, he said "Let the /whitespace/ under the source be gathered unto one place, and let arcane /characters/ appear, and it was so. And he called the /characters/ *Perl6* and the /whitespace/ unnecessary.
-**** TODO Day 5
-***** TODO Day 6
+**** DONE Day 5
+And on the fifth day, he brought *Smalltalk*, and /object/ yielding /message/ after it's kind, and /message/ yielding /object/, who's /message/ was in itself, after it's kind.
+**** TODO Day 6
 ***** TODO Day 7
 ***** TODO Day 8
 ***** TODO Day 9
@@ -70,7 +71,7 @@ And on the fourth day, he said "Let the /whitespace/ under the source be gathere
 - [ ] Ruby
 - [X] Rust
 - [ ] Scala
-- [ ] Smalltalk
+- [X] Smalltalk
 
 #+BEGIN_COMMENT
 http://www.pitt.edu/~dash/genesis01-03.html
