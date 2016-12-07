@@ -18,8 +18,9 @@ And on the third day, he said "Let there be /dynamicism/ in the midst of the web
 And on the fourth day, he said "Let the /whitespace/ under the source be gathered unto one place, and let arcane /characters/ appear, and it was so. And he called the /characters/ *Perl6* and the /whitespace/ unnecessary.
 **** DONE Day 5
 And on the fifth day, he brought *Smalltalk*, and /object/ yielding /message/ after it's kind, and /message/ yielding /object/, who's /message/ was in itself, after it's kind.
-**** TODO Day 6
-***** TODO Day 7
+**** DONE Day 6
+And on the sixth day, he said "Let there be spaces in the firmament of the data to divide word from word, and let word bring *Forth* phrase, and let them be for subroutine, and for file, and source.
+**** TODO Day 7
 ***** TODO Day 8
 ***** TODO Day 9
 ***** TODO Day 10
@@ -53,7 +54,7 @@ And on the fifth day, he brought *Smalltalk*, and /object/ yielding /message/ af
 - [ ] Erlang
 - [ ] F#
 - [ ] Factor
-- [ ] Forth
+- [X] Forth
 - [X] Go
 - [ ] Haskell
 - [ ] Java
